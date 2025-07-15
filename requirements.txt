@@ -1,0 +1,19 @@
+tensorflow>=2.0
+opencv-python
+numpy
+filterpy  # for Kalman filter
+pygame    # (for CARLA, if needed)
+matplotlib  # for plotting results
+scikit-learn  # for machine learning utilities
+scipy  # for scientific computing
+# Additional dependencies for specific functionalities
+pandas  # for data manipulation and analysis    
+seaborn  # for statistical data visualization
+requests  # for making HTTP requests, if needed
+gym  # for reinforcement learning environments                                          
+# Note: Ensure that the versions of these packages are compatible with your project requirements.
+CARLA==0.9.10  # replace with the version you are using
+# Additional dependencies for specific functionalities
+tensorflow-addons  # for additional TensorFlow functionalities  
+
+jupyter  # for interactive computing
