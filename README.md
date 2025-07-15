@@ -1,5 +1,7 @@
 # 🚘 Lane Departure Warning System – BE Project
-![Sample Output](https://github.com/DevanshShukla1/ShunyaOS-internship/raw/main/output_image_new1.png)
+
+
+![Sample Output](https://github.com/DevanshShukla1/Lane_departure_warning/raw/main/output_image_new1.png)
 
 This project implements a **Lane Departure Warning System** designed for Indian road conditions. It uses **CNNs**, **OpenCV**, and **Kalman Filter-based sensor fusion** to detect lane lines, estimate obstacle distances, and generate alerts. The system runs in both the **CARLA simulator** and on a **Raspberry Pi** with live sensors.
 
