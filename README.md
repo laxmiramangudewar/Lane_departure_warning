@@ -8,6 +8,12 @@
 This project implements a **Lane Departure Warning System** designed for Indian road conditions. It uses **CNNs**, **OpenCV**, and **Kalman Filter-based sensor fusion** to detect lane lines, estimate obstacle distances, and generate alerts. The system runs in both the **CARLA simulator** and on a **Raspberry Pi** with live sensors.
 
 ---
+# Project Contributors
+Khushal Thanvi
+Devansh Shukla
+Laxmiraman Gudewar
+
+---
 
 ## 🔧 Setup & Installation
 
