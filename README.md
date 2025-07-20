@@ -9,9 +9,9 @@ This project implements a **Lane Departure Warning System** designed for Indian 
 
 ---
 # Project Contributors
-Khushal Thanvi
-Devansh Shukla
-Laxmiraman Gudewar
+-Khushal Thanvi
+-Devansh Shukla
+-Laxmiraman Gudewar
 
 ---
 
